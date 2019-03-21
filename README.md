@@ -1,2 +1,3 @@
 # Adaptive_Forecasting
-simple apadtive methods of short-term forecasting
+Simple apadtive methods of short-term forecasting
+See [notebook](./Adaptive_filters.ipynb)
